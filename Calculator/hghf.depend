@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572457237 source:c:\users\asus\desktop\algvp\work\hghf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
