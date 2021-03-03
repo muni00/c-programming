@@ -1,2 +1,2 @@
-# Calcul-C
-This is calculator
+# c-programming
+
