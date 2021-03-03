@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576925847 source:c:\users\asus\desktop\algvp\work\odev4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
